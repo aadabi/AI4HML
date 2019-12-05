@@ -1,10 +1,10 @@
 # AI4HML
 
-AI to End Homelessness  
+## AI to End Homelessness  
 
 #How SF can deal with Homelessness with Technology, Design Principles, Data Science and Agile methodologies?
-Get Homeless off downtown streets and into recovery center (for 4 years):
-# 1.Homeless, drugs, and crime issue has created a hostile environment for the residents of Soma and Tenderloin and Downtown San Francisco. First, we need to get everyone in the street into a recovery center. Homeless on the street are not living, they are dying. We need to make a registry of the homeless to track and make sure everyone in the list is addressed as they get enough sleep, food, etc. For example, One way to enforce the sleep is to give every one of 9,784 homeless people a tracking device like Fitbit with the cost of 2 Million dollars total. We also need to equip shelters with wifi such that we have access to their sleep data from their wearable devices.
+# 1. Get Homeless off downtown streets and into recovery center (for 4 years):
+Homeless, drugs, and crime issue has created a hostile environment for the residents of Soma and Tenderloin and Downtown San Francisco. First, we need to get everyone in the street into a recovery center. Homeless on the street are not living, they are dying. We need to make a registry of the homeless to track and make sure everyone in the list is addressed as they get enough sleep, food, etc. For example, One way to enforce the sleep is to give every one of 9,784 homeless people a tracking device like Fitbit with the cost of 2 Million dollars total. We also need to equip shelters with wifi such that we have access to their sleep data from their wearable devices.
 If a small town like Santa Cruz was able to house 700 hundred people in an area away from City Center, SF should be able to create dense housing to fit 9,784 people. There are many volunteers that work in the center and ensure that the homeless are getting enough care. Collecting all homeless in one place provides an enormous reduction in cost of taking care of them.
 # 2. Use data science to study the behavior of the homeless and constantly monitor and improve them.
 Once we have a way of measuring the homeless activities and behavior we can start looking into how to break them out of this cycle. We should use game theory principles and the idea of tit for tat to make sure the system is balanced. Once the homeless are all in one place, we can use video technologies and data science to monitor and track and improve their behavior. For example, we could reward the homeless with good behavior a trip to Hawaii or a meal at a good restaurant. (right now their incentive is to steal some stuff to be able to pay for drugs, we need to change that cycle)
